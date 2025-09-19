@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7b6a05ce6f3105e4",
+        "id": "b5c41ea36df35fa4",
         "type": "tabs",
         "children": [
           {
-            "id": "2229ea63bca2de03",
+            "id": "425517c724171d35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202509181929 - Números Binários.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "202509181929 - Números Binários"
+              "title": "Nova aba"
             }
           }
         ]
@@ -179,10 +175,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2229ea63bca2de03",
+  "active": "425517c724171d35",
   "lastOpenFiles": [
-    "Binários.md",
     "202509181929 - Números Binários.md",
+    "conversor-binario.xlsx",
+    "~$conversor-binario.xlsx",
+    "Binários.md",
     "Teorema ACID e Banco de Dados Relacionais.md",
     "Sem título 1.md",
     "Entendendo OLTP (Online Transaction Processing).md",

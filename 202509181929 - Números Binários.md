@@ -1,3 +1,8 @@
+---
+repeat: spaced every 7 days in the evening
+due_at: 2025-09-27T18:00:00.000-03:00
+hidden: true
+---
 Fonte: [Hardware - CS50's Understanding Technology 2017](https://www.youtube.com/watch?v=6mbFO0ZLMW8&t=29s)
 MOC Relacionado: [[Fundamentos_MOC]]
 

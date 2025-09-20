@@ -1,3 +1,8 @@
+---
+repeat: spaced every 8 days in the evening
+due_at: 2025-09-28T18:00:00.000-03:00
+hidden: true
+---
 #java #programação
 
 Fonte: [Curso Udemy](https://www.udemy.com/course/java-backend-360-web-services-api-com-spring-boot-e-jpa/)

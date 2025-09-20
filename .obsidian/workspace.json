@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b5c41ea36df35fa4",
+        "id": "6212416c21b4f764",
         "type": "tabs",
         "children": [
           {
-            "id": "425517c724171d35",
+            "id": "18b57ec31544c99e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "202509192049 - Comunicação Cliente-Servidor e o Protocolo HTTP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "202509192049 - Comunicação Cliente-Servidor e o Protocolo HTTP"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 353.5,
+    "collapsed": true
   },
   "right": {
     "id": "2f8266037c96c0c9",
@@ -164,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Criar nova base": false,
       "repeat-plugin:Repeat due notes": false,
       "switcher:Abrir a troca rápida": false,
@@ -175,9 +181,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "425517c724171d35",
+  "active": "18b57ec31544c99e",
   "lastOpenFiles": [
+    "Pasted image 20250919212955.png",
+    "Pasted image 20250919212318.png",
+    "Pasted image 20250919211827.png",
+    "202509191314 - Aplicações com Java e SpringBoot.md",
+    "202509192049 - Comunicação Cliente-Servidor e o Protocolo HTTP.md",
     "202509181929 - Números Binários.md",
+    "Mocs/Programação_ MOC.md",
+    "Mocs/_01_01_JAVA_MOC.md",
+    "Mocs",
+    "Assets",
+    "Assets/Pasted image 20250919132303.png",
     "conversor-binario.xlsx",
     "~$conversor-binario.xlsx",
     "Binários.md",

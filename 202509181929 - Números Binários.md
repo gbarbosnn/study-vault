@@ -1,4 +1,6 @@
 Fonte: [Hardware - CS50's Understanding Technology 2017](https://www.youtube.com/watch?v=6mbFO0ZLMW8&t=29s)
+MOC Relacionado: [[Fundamentos_MOC]]
+
 ### **Sistemas Numéricos: Como Computadores e Humanos Contam**
 
 A forma como computadores e humanos processam e representam números é fundamentalmente diferente. Essa diferença reside na **base** do sistema numérico que cada um utiliza.
